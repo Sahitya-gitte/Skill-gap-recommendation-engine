@@ -1,0 +1,335 @@
+Skill,Course_Name,Platform,Difficulty
+3D Modeling,3D Modeling Fundamentals,Udemy,Beginner
+3D Modeling,3D Modeling Professional Certificate,NPTEL,Beginner
+5G,5G Fundamentals,edX,Intermediate
+5G,5G Professional Certificate,edX,Intermediate
+APIs,APIs Fundamentals,Udemy,Beginner
+APIs,APIs Professional Certificate,edX,Beginner
+ARM,ARM Fundamentals,edX,Intermediate
+ARM,ARM Professional Certificate,Coursera,Intermediate
+ASIC Design,ASIC Design Fundamentals,NPTEL,Beginner
+ASIC Design,ASIC Design Professional Certificate,Coursera,Intermediate
+AWS,AWS Fundamentals,Coursera,Beginner
+AWS,AWS Professional Certificate,Coursera,Beginner
+Adobe XD,Adobe XD Fundamentals,edX,Beginner
+Adobe XD,Adobe XD Professional Certificate,edX,Beginner
+Altium,Altium Fundamentals,Udemy,Intermediate
+Altium,Altium Professional Certificate,edX,Beginner
+Android,Android Fundamentals,NPTEL,Beginner
+Android,Android Professional Certificate,Udemy,Intermediate
+Antenna Design,Antenna Design Fundamentals,NPTEL,Beginner
+Antenna Design,Antenna Design Professional Certificate,edX,Beginner
+Arduino,Arduino Fundamentals,Udemy,Intermediate
+Arduino,Arduino Professional Certificate,Coursera,Intermediate
+AutoCAD,AutoCAD Fundamentals,edX,Beginner
+AutoCAD,AutoCAD Professional Certificate,NPTEL,Intermediate
+AutoCAD Electrical,AutoCAD Electrical Fundamentals,edX,Intermediate
+AutoCAD Electrical,AutoCAD Electrical Professional Certificate,Coursera,Intermediate
+Automation,Automation Fundamentals,Udemy,Intermediate
+Automation,Automation Professional Certificate,edX,Beginner
+Automation Testing,Automation Testing Fundamentals,NPTEL,Intermediate
+Automation Testing,Automation Testing Professional Certificate,Coursera,Intermediate
+Automotive Systems,Automotive Systems Fundamentals,Coursera,Beginner
+Automotive Systems,Automotive Systems Professional Certificate,edX,Intermediate
+Azure,Azure Fundamentals,edX,Beginner
+Azure,Azure Professional Certificate,edX,Beginner
+BIM,BIM Fundamentals,NPTEL,Intermediate
+BIM,BIM Professional Certificate,Udemy,Beginner
+BOQ,BOQ Fundamentals,Udemy,Beginner
+BOQ,BOQ Professional Certificate,Udemy,Beginner
+Bug Tracking,Bug Tracking Fundamentals,edX,Intermediate
+Bug Tracking,Bug Tracking Professional Certificate,NPTEL,Intermediate
+CAD,CAD Fundamentals,NPTEL,Beginner
+CAD,CAD Professional Certificate,edX,Beginner
+CATIA,CATIA Fundamentals,Udemy,Intermediate
+CATIA,CATIA Professional Certificate,Coursera,Intermediate
+CI/CD,CI/CD Fundamentals,NPTEL,Beginner
+CI/CD,CI/CD Professional Certificate,edX,Intermediate
+CMOS Design,CMOS Design Fundamentals,NPTEL,Intermediate
+CMOS Design,CMOS Design Professional Certificate,NPTEL,Beginner
+CNC Programming,CNC Programming Fundamentals,NPTEL,Intermediate
+CNC Programming,CNC Programming Professional Certificate,Coursera,Beginner
+CSS,CSS Fundamentals,Udemy,Beginner
+CSS,CSS Professional Certificate,Coursera,Intermediate
+Cadence,Cadence Fundamentals,Coursera,Beginner
+Cadence,Cadence Professional Certificate,Coursera,Beginner
+Calibration,Calibration Fundamentals,edX,Beginner
+Calibration,Calibration Professional Certificate,NPTEL,Beginner
+Circuit Design,Circuit Design Fundamentals,NPTEL,Beginner
+Circuit Design,Circuit Design Professional Certificate,Udemy,Intermediate
+Clash Detection,Clash Detection Fundamentals,NPTEL,Beginner
+Clash Detection,Clash Detection Professional Certificate,Udemy,Beginner
+Components,Components Fundamentals,NPTEL,Beginner
+Components,Components Professional Certificate,NPTEL,Intermediate
+Contracts,Contracts Fundamentals,edX,Intermediate
+Contracts,Contracts Professional Certificate,edX,Intermediate
+Control Systems,Control Systems Fundamentals,Coursera,Beginner
+Control Systems,Control Systems Professional Certificate,NPTEL,Intermediate
+Data Structures,Data Structures Fundamentals,NPTEL,Intermediate
+Data Structures,Data Structures Professional Certificate,Udemy,Intermediate
+Database Design,Database Design Fundamentals,Coursera,Intermediate
+Database Design,Database Design Professional Certificate,Udemy,Intermediate
+Deep Learning,Deep Learning Fundamentals,Coursera,Beginner
+Deep Learning,Deep Learning Professional Certificate,Coursera,Intermediate
+Django,Django Fundamentals,Udemy,Beginner
+Django,Django Professional Certificate,Udemy,Intermediate
+Docker,Docker Fundamentals,edX,Beginner
+Docker,Docker Professional Certificate,edX,Beginner
+ETABS,ETABS Fundamentals,Coursera,Intermediate
+ETABS,ETABS Professional Certificate,NPTEL,Intermediate
+ETAP,ETAP Fundamentals,Coursera,Intermediate
+ETAP,ETAP Professional Certificate,Udemy,Beginner
+Electrical Machines,Electrical Machines Fundamentals,Coursera,Intermediate
+Electrical Machines,Electrical Machines Professional Certificate,Coursera,Beginner
+Embedded C,Embedded C Fundamentals,NPTEL,Intermediate
+Embedded C,Embedded C Professional Certificate,Udemy,Intermediate
+Engineering Drawing,Engineering Drawing Fundamentals,NPTEL,Beginner
+Engineering Drawing,Engineering Drawing Professional Certificate,Coursera,Beginner
+Estimation,Estimation Fundamentals,Udemy,Intermediate
+Estimation,Estimation Professional Certificate,Udemy,Beginner
+Ethical Hacking,Ethical Hacking Fundamentals,edX,Beginner
+Ethical Hacking,Ethical Hacking Professional Certificate,NPTEL,Beginner
+Excel,Excel Fundamentals,Udemy,Intermediate
+Excel,Excel Professional Certificate,Udemy,Intermediate
+FPGA,FPGA Fundamentals,Coursera,Intermediate
+FPGA,FPGA Professional Certificate,NPTEL,Intermediate
+Figma,Figma Fundamentals,Coursera,Intermediate
+Figma,Figma Professional Certificate,edX,Intermediate
+Firebase,Firebase Fundamentals,Coursera,Beginner
+Firebase,Firebase Professional Certificate,Udemy,Intermediate
+Firewall,Firewall Fundamentals,Udemy,Intermediate
+Firewall,Firewall Professional Certificate,edX,Beginner
+Firmware Debugging,Firmware Debugging Fundamentals,NPTEL,Beginner
+Firmware Debugging,Firmware Debugging Professional Certificate,edX,Intermediate
+Flask,Flask Fundamentals,edX,Beginner
+Flask,Flask Professional Certificate,Coursera,Beginner
+Foundation Design,Foundation Design Fundamentals,Coursera,Beginner
+Foundation Design,Foundation Design Professional Certificate,Udemy,Beginner
+G Code,G Code Fundamentals,Udemy,Intermediate
+G Code,G Code Professional Certificate,NPTEL,Intermediate
+GD&T,GD&T Fundamentals,NPTEL,Intermediate
+GD&T,GD&T Professional Certificate,NPTEL,Beginner
+Git,Git Fundamentals,NPTEL,Beginner
+Git,Git Professional Certificate,edX,Beginner
+HMI,HMI Fundamentals,Coursera,Intermediate
+HMI,HMI Professional Certificate,Coursera,Intermediate
+HTML,HTML Fundamentals,Coursera,Intermediate
+HTML,HTML Professional Certificate,Udemy,Beginner
+HVAC,HVAC Fundamentals,NPTEL,Beginner
+HVAC,HVAC Professional Certificate,edX,Beginner
+Hydraulics,Hydraulics Fundamentals,Udemy,Beginner
+Hydraulics,Hydraulics Professional Certificate,NPTEL,Intermediate
+Hydrology,Hydrology Fundamentals,NPTEL,Beginner
+Hydrology,Hydrology Professional Certificate,edX,Intermediate
+I2C,I2C Fundamentals,Coursera,Beginner
+I2C,I2C Professional Certificate,NPTEL,Beginner
+IRC Standards,IRC Standards Fundamentals,Coursera,Beginner
+IRC Standards,IRC Standards Professional Certificate,edX,Beginner
+Instrumentation,Instrumentation Fundamentals,Coursera,Beginner
+Instrumentation,Instrumentation Professional Certificate,Udemy,Intermediate
+IoT Cloud,IoT Cloud Fundamentals,Udemy,Beginner
+IoT Cloud,IoT Cloud Professional Certificate,edX,Beginner
+Irrigation Design,Irrigation Design Fundamentals,Udemy,Beginner
+Irrigation Design,Irrigation Design Professional Certificate,Coursera,Intermediate
+Java,Java Fundamentals,edX,Intermediate
+Java,Java Professional Certificate,NPTEL,Intermediate
+JavaScript,JavaScript Fundamentals,NPTEL,Beginner
+JavaScript,JavaScript Professional Certificate,Udemy,Intermediate
+Jenkins,Jenkins Fundamentals,Coursera,Beginner
+Jenkins,Jenkins Professional Certificate,Coursera,Intermediate
+KiCad,KiCad Fundamentals,NPTEL,Intermediate
+KiCad,KiCad Professional Certificate,edX,Intermediate
+Kotlin,Kotlin Fundamentals,edX,Beginner
+Kotlin,Kotlin Professional Certificate,Coursera,Intermediate
+Kubernetes,Kubernetes Fundamentals,edX,Beginner
+Kubernetes,Kubernetes Professional Certificate,NPTEL,Beginner
+LTE,LTE Fundamentals,edX,Intermediate
+LTE,LTE Professional Certificate,NPTEL,Beginner
+Lab Testing,Lab Testing Fundamentals,Udemy,Intermediate
+Lab Testing,Lab Testing Professional Certificate,Udemy,Beginner
+Lean Manufacturing,Lean Manufacturing Fundamentals,NPTEL,Beginner
+Lean Manufacturing,Lean Manufacturing Professional Certificate,NPTEL,Beginner
+Linux,Linux Fundamentals,edX,Beginner
+Linux,Linux Professional Certificate,NPTEL,Beginner
+Load Calculation,Load Calculation Fundamentals,edX,Intermediate
+Load Calculation,Load Calculation Professional Certificate,Coursera,Intermediate
+MATLAB,MATLAB Fundamentals,Udemy,Intermediate
+MATLAB,MATLAB Professional Certificate,NPTEL,Beginner
+MLOps,MLOps Fundamentals,NPTEL,Beginner
+MLOps,MLOps Professional Certificate,Coursera,Beginner
+MQTT,MQTT Fundamentals,Udemy,Beginner
+MQTT,MQTT Professional Certificate,Udemy,Intermediate
+MS Project,MS Project Fundamentals,Coursera,Intermediate
+MS Project,MS Project Professional Certificate,Coursera,Beginner
+Machine Learning,Machine Learning Fundamentals,Coursera,Beginner
+Machine Learning,Machine Learning Professional Certificate,NPTEL,Intermediate
+Machine Setup,Machine Setup Fundamentals,edX,Intermediate
+Machine Setup,Machine Setup Professional Certificate,Udemy,Beginner
+Maintenance,Maintenance Fundamentals,NPTEL,Beginner
+Maintenance,Maintenance Professional Certificate,Udemy,Beginner
+Microcontrollers,Microcontrollers Fundamentals,Udemy,Beginner
+Microcontrollers,Microcontrollers Professional Certificate,NPTEL,Intermediate
+Microwave,Microwave Fundamentals,Coursera,Intermediate
+Microwave,Microwave Professional Certificate,Udemy,Beginner
+MongoDB,MongoDB Fundamentals,Udemy,Beginner
+MongoDB,MongoDB Professional Certificate,NPTEL,Beginner
+MySQL,MySQL Fundamentals,Udemy,Intermediate
+MySQL,MySQL Professional Certificate,edX,Beginner
+NLP,NLP Fundamentals,Coursera,Beginner
+NLP,NLP Professional Certificate,NPTEL,Beginner
+Navisworks,Navisworks Fundamentals,edX,Intermediate
+Navisworks,Navisworks Professional Certificate,NPTEL,Intermediate
+Networking,Networking Fundamentals,edX,Beginner
+Networking,Networking Professional Certificate,edX,Intermediate
+Node.js,Node.js Fundamentals,Udemy,Intermediate
+Node.js,Node.js Professional Certificate,edX,Beginner
+OOP,OOP Fundamentals,edX,Beginner
+OOP,OOP Professional Certificate,Coursera,Intermediate
+PCB Design,PCB Design Fundamentals,Udemy,Beginner
+PCB Design,PCB Design Professional Certificate,Udemy,Intermediate
+PLC,PLC Fundamentals,NPTEL,Intermediate
+PLC,PLC Professional Certificate,edX,Beginner
+Pandas,Pandas Fundamentals,Coursera,Beginner
+Pandas,Pandas Professional Certificate,edX,Beginner
+Performance Tuning,Performance Tuning Fundamentals,Udemy,Intermediate
+Performance Tuning,Performance Tuning Professional Certificate,edX,Beginner
+Pneumatics,Pneumatics Fundamentals,Udemy,Intermediate
+Pneumatics,Pneumatics Professional Certificate,edX,Intermediate
+PostgreSQL,PostgreSQL Fundamentals,Udemy,Intermediate
+PostgreSQL,PostgreSQL Professional Certificate,NPTEL,Intermediate
+Power BI,Power BI Fundamentals,Udemy,Beginner
+Power BI,Power BI Professional Certificate,Coursera,Intermediate
+Power Electronics,Power Electronics Fundamentals,Udemy,Beginner
+Power Electronics,Power Electronics Professional Certificate,NPTEL,Intermediate
+Power Systems,Power Systems Fundamentals,NPTEL,Intermediate
+Power Systems,Power Systems Professional Certificate,Udemy,Intermediate
+Primavera,Primavera Fundamentals,Coursera,Beginner
+Primavera,Primavera Professional Certificate,edX,Beginner
+Process Planning,Process Planning Fundamentals,Udemy,Intermediate
+Process Planning,Process Planning Professional Certificate,edX,Beginner
+Production Planning,Production Planning Fundamentals,Coursera,Intermediate
+Production Planning,Production Planning Professional Certificate,edX,Intermediate
+Project Planning,Project Planning Fundamentals,edX,Beginner
+Project Planning,Project Planning Professional Certificate,Coursera,Beginner
+Protection Systems,Protection Systems Fundamentals,NPTEL,Beginner
+Protection Systems,Protection Systems Professional Certificate,NPTEL,Beginner
+Prototyping,Prototyping Fundamentals,Udemy,Beginner
+Prototyping,Prototyping Professional Certificate,edX,Beginner
+PyTorch,PyTorch Fundamentals,edX,Intermediate
+PyTorch,PyTorch Professional Certificate,edX,Beginner
+Python,Python Fundamentals,NPTEL,Intermediate
+Python,Python Professional Certificate,Udemy,Intermediate
+Quality Control,Quality Control Fundamentals,Udemy,Beginner
+Quality Control,Quality Control Professional Certificate,edX,Intermediate
+REST APIs,REST APIs Fundamentals,Coursera,Intermediate
+REST APIs,REST APIs Professional Certificate,NPTEL,Beginner
+RF Basics,RF Basics Fundamentals,edX,Beginner
+RF Basics,RF Basics Professional Certificate,Udemy,Intermediate
+RF Design,RF Design Fundamentals,Coursera,Beginner
+RF Design,RF Design Professional Certificate,Udemy,Intermediate
+RTL Design,RTL Design Fundamentals,Udemy,Beginner
+RTL Design,RTL Design Professional Certificate,NPTEL,Beginner
+RTOS,RTOS Fundamentals,Udemy,Intermediate
+RTOS,RTOS Professional Certificate,NPTEL,Intermediate
+Raspberry Pi,Raspberry Pi Fundamentals,edX,Beginner
+Raspberry Pi,Raspberry Pi Professional Certificate,NPTEL,Intermediate
+React,React Fundamentals,edX,Beginner
+React,React Professional Certificate,Udemy,Intermediate
+Relay Coordination,Relay Coordination Fundamentals,Udemy,Intermediate
+Relay Coordination,Relay Coordination Professional Certificate,Coursera,Beginner
+Revit,Revit Fundamentals,Coursera,Beginner
+Revit,Revit Professional Certificate,NPTEL,Beginner
+Revit MEP,Revit MEP Fundamentals,Coursera,Intermediate
+Revit MEP,Revit MEP Professional Certificate,NPTEL,Intermediate
+Road Design,Road Design Fundamentals,NPTEL,Intermediate
+Road Design,Road Design Professional Certificate,Coursera,Beginner
+Robotics,Robotics Fundamentals,edX,Intermediate
+Robotics,Robotics Professional Certificate,NPTEL,Intermediate
+Root Cause Analysis,Root Cause Analysis Fundamentals,edX,Intermediate
+Root Cause Analysis,Root Cause Analysis Professional Certificate,edX,Beginner
+SAP,SAP Fundamentals,edX,Intermediate
+SAP,SAP Professional Certificate,Udemy,Beginner
+SCADA,SCADA Fundamentals,NPTEL,Beginner
+SCADA,SCADA Professional Certificate,edX,Intermediate
+SIEM,SIEM Fundamentals,NPTEL,Beginner
+SIEM,SIEM Professional Certificate,edX,Beginner
+SPI,SPI Fundamentals,NPTEL,Beginner
+SPI,SPI Professional Certificate,edX,Intermediate
+SQL,SQL Fundamentals,edX,Intermediate
+SQL,SQL Professional Certificate,Coursera,Intermediate
+STAAD Pro,STAAD Pro Fundamentals,Udemy,Intermediate
+STAAD Pro,STAAD Pro Professional Certificate,Coursera,Intermediate
+Safety Standards,Safety Standards Fundamentals,Udemy,Intermediate
+Safety Standards,Safety Standards Professional Certificate,NPTEL,Beginner
+Schematic Design,Schematic Design Fundamentals,Coursera,Beginner
+Schematic Design,Schematic Design Professional Certificate,NPTEL,Intermediate
+Scikit-learn,Scikit-learn Fundamentals,edX,Intermediate
+Scikit-learn,Scikit-learn Professional Certificate,Udemy,Intermediate
+Selenium,Selenium Fundamentals,NPTEL,Intermediate
+Selenium,Selenium Professional Certificate,Udemy,Intermediate
+Sensors,Sensors Fundamentals,Coursera,Intermediate
+Sensors,Sensors Professional Certificate,Coursera,Intermediate
+Signal Integrity,Signal Integrity Fundamentals,Coursera,Intermediate
+Signal Integrity,Signal Integrity Professional Certificate,Coursera,Intermediate
+Site Management,Site Management Fundamentals,Coursera,Beginner
+Site Management,Site Management Professional Certificate,Udemy,Beginner
+Six Sigma,Six Sigma Fundamentals,edX,Intermediate
+Six Sigma,Six Sigma Professional Certificate,NPTEL,Beginner
+Soil Mechanics,Soil Mechanics Fundamentals,Udemy,Beginner
+Soil Mechanics,Soil Mechanics Professional Certificate,NPTEL,Intermediate
+Solar Design,Solar Design Fundamentals,Coursera,Beginner
+Solar Design,Solar Design Professional Certificate,NPTEL,Intermediate
+SolidWorks,SolidWorks Fundamentals,Coursera,Beginner
+SolidWorks,SolidWorks Professional Certificate,NPTEL,Intermediate
+Statistics,Statistics Fundamentals,NPTEL,Beginner
+Statistics,Statistics Professional Certificate,edX,Intermediate
+Structural Design,Structural Design Fundamentals,Udemy,Intermediate
+Structural Design,Structural Design Professional Certificate,NPTEL,Intermediate
+Substation Design,Substation Design Fundamentals,Udemy,Intermediate
+Substation Design,Substation Design Professional Certificate,Udemy,Beginner
+Surveying,Surveying Fundamentals,edX,Intermediate
+Surveying,Surveying Professional Certificate,edX,Beginner
+Switchgear,Switchgear Fundamentals,NPTEL,Beginner
+Switchgear,Switchgear Professional Certificate,Coursera,Beginner
+Synopsys,Synopsys Fundamentals,edX,Beginner
+Synopsys,Synopsys Professional Certificate,NPTEL,Intermediate
+SystemVerilog,SystemVerilog Fundamentals,Udemy,Beginner
+SystemVerilog,SystemVerilog Professional Certificate,Udemy,Intermediate
+Tableau,Tableau Fundamentals,NPTEL,Intermediate
+Tableau,Tableau Professional Certificate,edX,Beginner
+TensorFlow,TensorFlow Fundamentals,Coursera,Beginner
+TensorFlow,TensorFlow Professional Certificate,NPTEL,Beginner
+Terraform,Terraform Fundamentals,Coursera,Beginner
+Terraform,Terraform Professional Certificate,edX,Intermediate
+Testing,Testing Fundamentals,edX,Beginner
+Testing,Testing Professional Certificate,Udemy,Beginner
+Timing Analysis,Timing Analysis Fundamentals,Coursera,Beginner
+Timing Analysis,Timing Analysis Professional Certificate,Udemy,Beginner
+Troubleshooting,Troubleshooting Fundamentals,edX,Intermediate
+Troubleshooting,Troubleshooting Professional Certificate,NPTEL,Intermediate
+UART,UART Fundamentals,Coursera,Beginner
+UART,UART Professional Certificate,Coursera,Beginner
+UI Design,UI Design Fundamentals,edX,Beginner
+UI Design,UI Design Professional Certificate,edX,Intermediate
+UVM,UVM Fundamentals,edX,Beginner
+UVM,UVM Professional Certificate,Udemy,Beginner
+User Research,User Research Fundamentals,NPTEL,Intermediate
+User Research,User Research Professional Certificate,edX,Beginner
+VHDL,VHDL Fundamentals,edX,Intermediate
+VHDL,VHDL Professional Certificate,NPTEL,Intermediate
+Vehicle Dynamics,Vehicle Dynamics Fundamentals,Coursera,Beginner
+Vehicle Dynamics,Vehicle Dynamics Professional Certificate,Coursera,Beginner
+Verification,Verification Fundamentals,Coursera,Beginner
+Verification,Verification Professional Certificate,edX,Intermediate
+Verilog,Verilog Fundamentals,edX,Intermediate
+Verilog,Verilog Professional Certificate,Udemy,Intermediate
+WaterCAD,WaterCAD Fundamentals,Udemy,Beginner
+WaterCAD,WaterCAD Professional Certificate,Coursera,Beginner
+WiFi,WiFi Fundamentals,edX,Beginner
+WiFi,WiFi Professional Certificate,Coursera,Intermediate
+Wind Energy,Wind Energy Fundamentals,NPTEL,Beginner
+Wind Energy,Wind Energy Professional Certificate,Coursera,Intermediate
+Wireframing,Wireframing Fundamentals,NPTEL,Beginner
+Wireframing,Wireframing Professional Certificate,Coursera,Beginner
+Wiring Design,Wiring Design Fundamentals,Udemy,Beginner
+Wiring Design,Wiring Design Professional Certificate,NPTEL,Beginner
